@@ -1,0 +1,28 @@
+html {
+    background-color: azure;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.site-header {
+    background-color:plum;
+}
+
+.site-main {
+    background-color: papayawhip;
+}
+
+.article-section {
+    background-color: peachpuff;
+}
+
+.callout {
+    background-color: lightpink;
+}
+
+.site-footer {
+    background-color: mediumaquamarine;
+}
