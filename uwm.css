@@ -42,6 +42,7 @@ html {
     padding: 10px;
 }
 
-.pipe {
-    color: black;
+.border-line {
+    border-top: 4px solid black;
+    padding-top: 15px;
 }
