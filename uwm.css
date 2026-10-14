@@ -9,20 +9,39 @@ html {
 
 .site-header {
     background-color:plum;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.tag-line {
+    margin-top: -15px;
 }
 
 .site-main {
     background-color: papayawhip;
+    padding: 10px;
+    margin-bottom: 15px;
 }
 
 .article-section {
     background-color: peachpuff;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .callout {
     background-color: lightpink;
+    font-style: italic;
+    color: darkmagenta;
+    padding: 10px;
+    margin-bottom: 15px;
 }
 
 .site-footer {
     background-color: mediumaquamarine;
+    padding: 10px;
+}
+
+.pipe {
+    color: black;
 }
